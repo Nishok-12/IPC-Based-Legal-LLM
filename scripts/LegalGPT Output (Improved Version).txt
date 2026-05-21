@@ -1,0 +1,54 @@
+LegalGPT Output (Improved Version)
+
+📜 Section Number:
+IPC Section 420
+
+📌 Title:
+Cheating and dishonestly inducing delivery of property
+
+📖 Explanation:
+This section applies when a person cheats another person and dishonestly induces them to deliver property, money, or valuable security through deception.
+
+⚖️ Punishment:
+Imprisonment up to 7 years and fine.
+
+📊 Legal Classification
+Field	Information
+Cognizable	Yes
+Bailable	No
+Triable By	Magistrate of First Class
+🧾 Example Scenario
+
+If someone creates a fake online investment scheme and collects money from people promising high returns, it can fall under IPC Section 420.
+
+📚 Related IPC Sections
+
+Users might also want to know these related laws:
+
+IPC 415 – Cheating (basic definition of cheating)
+
+IPC 406 – Criminal Breach of Trust
+
+IPC 468 – Forgery for purpose of cheating
+
+IPC 471 – Using forged documents as genuine
+
+💡 Suggested Questions
+
+You may also ask:
+
+“What is IPC Section 415?”
+
+“Is IPC 420 a bailable offence?”
+
+“What is the difference between IPC 415 and IPC 420?”
+
+“How to file an FIR for cheating?”
+
+“What punishment is given for online fraud in India?”
+
+⚠️ Disclaimer
+
+This information is for educational purposes and should not replace professional legal advice.
+
+is this fully an output to the legalGPT ?
